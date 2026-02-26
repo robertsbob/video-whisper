@@ -6,8 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-in/
+in*/
+recordings-input/
 video_transcriptions/
+temp_extracted_audio_from_videos/
 
 # Distribution / packaging
 .Python
